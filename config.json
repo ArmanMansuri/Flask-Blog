@@ -1,0 +1,19 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/blog",
+		"prod_uri":"mysql://root:@data.com/new",
+		"tw_url":"https://twitter.com/arrow202020",
+		"blog_name":"Coding Thunder",
+		"gmail-user":"abc@gmail.com",
+		"gmail-password":"password",
+		"data":"Hii My name is Arman Mansuri I craete blog  for day to day technology if you have any topic you can learn aboutyou can mail or cooments on blog",
+		"no_posts":3,
+		"login_image":"logo.svg",
+		"admin_user":"Arman",
+		"admin_password":"admin123",
+		"upload_location":"D:\\flask1\\static"
+
+	}
+}
